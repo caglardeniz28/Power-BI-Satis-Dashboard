@@ -1,0 +1,12 @@
+KURULUM ADIMLARI
+1. Satış Data Boş.xlsx dosyasını doldurun.
+2. Satış Raporu.pbit dosyasını açın.
+3. Excel dosya yolunu seçin.
+4. Dashboard otomatik oluşacaktır.
+
+NOT!
+- Sheet isimlerini değiştirmeyin.
+- Kolon isimlerini değiştirmeyin.
+- Tablo isimlerini değiştirmeyin.
+- Yeni kolon eklemeyin.
+- Veri tiplerini bozmayın.
